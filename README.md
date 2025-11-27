@@ -69,5 +69,4 @@ Clone the repository:
 git clone https://github.com/diksha22-code/flight-price-analysis.git
 cd flight-price-analysis
 
-## 📂 Folder Structure
 
