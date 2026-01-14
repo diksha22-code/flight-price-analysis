@@ -10,11 +10,7 @@ This project uncovers patterns related to airlines, ticket prices, travel routes
 - [📂 Folder Structure](#-folder-structure)
 - [🛠️ Technologies Used](#️-technologies-used)
 - [📦 Installation](#-installation)
-- [📊 Key Insights](#-key-insights)
-- [📁 Dataset Details](#-dataset-details)
-- [📘 Notebook](#-notebook)
-- [📈 Visualizations](#-visualizations)
-- [👩‍💻 Author](#-author)
+
 
 ---
 
